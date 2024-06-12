@@ -1,0 +1,14 @@
+{
+    "PTF-Application": {
+        "Path": "path/to/my/ptf/source/ptf.appsource",
+        "Object": "MyPTF"
+    },
+
+    "A-Application": {
+        "Path": "path/to/my/mdi/source/file.appsource",
+        "Object": "AAplication",
+        "VersionCode": "AppVersionIdInFile",
+        "DBSystem": "system",
+        "DBModule": "module"
+    }
+}
